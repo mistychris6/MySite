@@ -1,0 +1,173 @@
+a {
+  color: #11999E;
+  margin: 20px 50px;
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+}
+
+a:hover {
+  color: #eaf6f6
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #66bfbf;
+}
+ 
+h2 {
+   font-family: 'Montserrat', sans-serif;
+   padding-bottom: 10px;
+   font-size: 2.5rem;
+   color: #66bfbf;
+   font-weight: normal;
+   
+}
+ 
+h3 {
+   font-family: 'Montserrat', sans-serif;
+   color: #66bfbf
+ }
+
+hr {
+  border: dotted #eaf6f6 6px;
+  border-bottom: none;
+  width: 4%;
+}
+
+.bottomCloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+.bottomContainer {
+  padding-top: 50px;
+  padding-bottom: 10px;
+  background-color: #66bfbf;
+  margin: 100px 0 0 0;
+}
+
+.btn {
+  background: #11CDD4;
+  background-image: -webkit-linear-gradient(top, #11CDD4, #119999);
+  background-image: -moz-linear-gradient(top, #11CDD4, #119999);
+  background-image: -ms-linear-gradient(top, #11CDD4, #119999);
+  background-image: -o-linear-gradient(top, #11CDD4, #119999);
+  background-image: linear-gradient(to bottom, #11CDD4, #119999);
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  border-radius: 8px;
+  color: #FFFFFF;
+  font-family: 'Montserrat', snas-serif;
+  font-size: 20px;
+  padding: 16px;
+  text-decoration: none;
+  }
+  
+.btn:hover {
+  background: #30E3CB;
+  background-image: -webkit-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: -moz-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: -ms-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: -o-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: linear-gradient(to bottom, #30E3CB, #2BC4AD);
+  text-decoration: none;
+}
+
+.contact-me {
+  margin-top: 100px;
+}
+
+.contact-message {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.copyright {
+  color: #eaf6f6;
+  margin: 40px 20px;
+  font-size: .75rem;
+}
+
+.halloweenPic {
+  border-radius: 100%;
+  width: 25%;
+  float: right;
+  margin-left: 30px; 
+}
+
+.middle-container {
+  margin: 100px 0
+}
+
+.p {
+  line-height: 2;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.profile {
+  margin-bottom: 100px;
+}
+
+.profileImg {
+  border-radius: 50%;
+  margin-top: 100px;
+  height: 200px;
+  width: 200px;
+}
+            
+.profileIntro {
+  width: 30%;
+  margin: auto;
+}
+
+.skills {
+  margin-top: 100px;
+}
+
+.skill-row {
+  width: 50%;
+  padding-bottom: 100px;
+  margin: 100px auto;
+  text-align: left;
+}
+
+.spreadTheLove {
+  border-radius: 100%;
+  width: 25%; 
+  float: left;
+  background-color: #eaf6f6;
+  margin-right: 30px;  
+}
+
+.topCloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.topContainer {
+  background-color: #eaf6f6;  
+  position: relative;
+  padding-top: 100px;
+}
+
+.topDiv {
+  background-color: #eaf6f6;
+}
+
+
+
+
